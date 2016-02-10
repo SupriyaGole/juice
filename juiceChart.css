@@ -1,0 +1,22 @@
+.popularity_chart{
+  display: inline block;
+}
+
+.item{
+  margin: 1px;
+  background-color: lightseagreen;
+}
+
+.xaxis{
+  height: 10px;
+  width: 20px;
+}
+
+.yaxis{
+  height: 20px;
+  width: 10px;
+}
+
+.rect{
+  margin-left: 10px;
+}
